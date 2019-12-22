@@ -1,0 +1,29 @@
+table {
+    width: 80%;
+    border: 1px solid black;
+    margin: 0px auto;
+}
+
+table tr {
+    width: 20%;
+    border: 1px solid black;
+    text-align: center;
+}
+
+table th {
+    text-align: center;
+    font-weight: 700;
+}
+
+.card-block-select {
+    width: 100px;
+    height: auto;
+    margin: 20px 20px 10px 150px;
+    cursor: pointer;
+}
+button{
+    cursor: pointer;
+}
+.fail{
+    color: red;
+}
